@@ -1,0 +1,7 @@
+Install the Coppelia Sim Educational Version 4.0.1, the programs doesnt Work with other Versions Due to Deprications Issues.
+
+Use Visual Studio Community Version for Connection Through the Developers Prompt for Script Execution.
+
+Updates Path for PATH Planning, Depth Sensing and Object Detecion Modules.
+
+Incase of Problems refer to Coppelia Documentation.
